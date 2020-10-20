@@ -11,5 +11,5 @@ phases:
       - npm build
 artifacts:
   files:
-    -- src/**/*
-    -- package.json
+    - src/**/*
+    - package.json
